@@ -23,10 +23,15 @@ Extraer automaticamente toda la informacion necesaria de datos no estructurados 
 ## Herramientas
 
 | VSCODE  | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  | 
-| STREAMLIT | [![My Skills](https://docs.streamlit.io/develop/api-reference/status/st.info)]  |
+| STREAMLIT | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit,yew&titles=true)]  |
 | DOCKERS | [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) | 
 | :------------ |:---------------:| 
 | GITHUB | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+
+
+
+streamlit
 
 
 
