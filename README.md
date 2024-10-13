@@ -20,12 +20,11 @@ Extraer automaticamente toda la informacion necesaria de datos no estructurados 
 - Construir una interfaz en Streamlit
 - Empaquetar e impleementar usando Dockers
 
-## Tools
+## Herramientas
 
 | VSCODE  | [![My Skills](https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=pn)](https://skillicons.dev)  | 
-| STREAMLIT | [![My Skills]()](https://skillicons.dev) | 
-| DOCKERS | [![My Skills](https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg)](https://skillicons.dev) | 
-
+| STREAMLIT | [![My Skills](https://img.icons8.com/?size=48&id=9OGIyU8hrxW5&format=pn)](https://skillicons.dev)  | 
+| DOCKERS | [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) | 
 
 
 
