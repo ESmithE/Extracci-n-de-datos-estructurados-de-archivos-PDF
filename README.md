@@ -1,16 +1,25 @@
 # Extraccion-de-datos-de-archivos-PDF
 
+## Herramientas / Tools
+
+| Herramienta | Descripción | Icono |
+| :------------ |:---------------|:---------------|
+| CHATGPT | Modelo de lenguaje |[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt)] |
+| STREAMLIT | Interfaz gráfica | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)] |
+| VSCODE  | Editor de código | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  | 
+| GITHUB | Repositorio |[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+| CHROMA | Open-soruce AI database |[![My Skills](https://docs.trychroma.com/img/chroma.svg)](https://skillicons.dev)
+
+## Problema
+Un problema comun es el tiempo excesivo que las personas se llevan al analizar documentos con información varriable. Hoy en dia muchas empresas
 
 ## Objetivo del proyecto
 
-Crear un 
-
-Constrruir una applicacion que utiliza un modelo de lenguaje externo para extraer informacion clave sobre los 8 
-
-Extraer automaticamente toda la informacion necesaria de datos no estructurados como en documentos PDF, libros, facturas comerciales, consultas de clientes e incluso imagenes, y organizar esa informacion en una tabla para poder ahorrar horas de investigacion 
+Desarrollar un modelo automatizado capaz de extraer información clave de diversos tipos de documentos como: PDFs, libros, facturas comerciales, consultas de clientes e imágenes, con el objetivo de reducir significativamente el tiempo de análisis y facilitar la obtención de datos esenciales de cada documento
 
 
-## Fuentes de datos:
+
+## Pasos en el proyecto:
 
 
 - Interactuar con un modelo de lenguaje (GPT 40) en python usando su API
@@ -20,19 +29,10 @@ Extraer automaticamente toda la informacion necesaria de datos no estructurados 
 - Construir una interfaz en Streamlit
 - Empaquetar e impleementar usando Dockers
 
-## Herramientas
-
-| VSCODE  | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  | 
-| STREAMLIT | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit,yew&titles=true)]  |
-| DOCKERS | [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) | 
-| :------------ |:---------------:| 
-| GITHUB | [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 
+## SOLUCION 
 
-
-streamlit
-
-
+Podras acceder de forma remota ingresando en este link:
 
 
