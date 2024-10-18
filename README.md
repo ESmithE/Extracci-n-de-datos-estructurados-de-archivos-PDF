@@ -6,6 +6,7 @@
 | :------------ |:---------------|:---------------|
 | CHATGPT | Modelo de lenguaje |[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt)] |
 | STREAMLIT | Interfaz gráfica | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)] |
+| DOCKERS | Compartir informacion | [![My Skills](https://skillicons.dev/icons?i=docker)] |
 | VSCODE  | Editor de código | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  | 
 | GITHUB | Repositorio |[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 | CHROMA | Open-soruce AI database |[![My Skills](https://docs.trychroma.com/img/chroma.svg)](https://skillicons.dev)
