@@ -4,7 +4,7 @@
 
 | Herramienta | Descripción | Icono |
 | :------------ |:---------------|:---------------|
-| CHATGPT | Modelo de lenguaje |[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt)] |
+| CHATGPT | Modelo LLM |[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt)] |
 | STREAMLIT | Interfaz gráfica | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)] |
 | DOCKERS | Compartir applicación | [![My Skills](https://skillicons.dev/icons?i=docker)] |
 | VSCODE  | Editor de código | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  | 
