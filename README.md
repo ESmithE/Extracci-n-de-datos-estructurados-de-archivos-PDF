@@ -6,10 +6,10 @@
 | :------------ |:---------------|:---------------|
 | CHATGPT | Modelo de lenguaje |[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt)] |
 | STREAMLIT | Interfaz gráfica | [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=streamlit)] |
-| DOCKERS | Compartir informacion | [![My Skills](https://skillicons.dev/icons?i=docker)] |
+| DOCKERS | Compartir applicación | [![My Skills](https://skillicons.dev/icons?i=docker)] |
 | VSCODE  | Editor de código | [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  | 
 | GITHUB | Repositorio |[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-| CHROMA | Open-soruce AI database |[![My Skills](https://docs.trychroma.com/img/chroma.svg)](https://skillicons.dev)
+| CHROMA | Base de datos vectorial abierta |[![My Skills](https://docs.trychroma.com/img/chroma.svg)](https://skillicons.dev)
 
 ## Problema
 Un problema comun es el tiempo excesivo que las personas se llevan al analizar documentos con información varriable. Hoy en dia muchas empresas
