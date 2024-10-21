@@ -31,19 +31,22 @@ Desarrollar una aplicación utilizando un modelo LLM que simplifique el análisi
 ## STEPS OF THE PROJECT / Pasos en el proyecto:
 
 
-- Interact with a language model (GPT 40) in Python using its API
+- Interact with a language model LLM (GPT 40) 
 - Build a document retrieval system to answer necessary questions based on a specified "research paper" in PDF
 - Obtain answers in text form and in the defined structured format
 - Ensure the application site provides the exact text sources
 - Build an interface in Streamlit
 - Package and deploy using Docker
 
-- Interactuar con un modelo de lenguaje (GPT 40) en python usando su API
+---
+
+
+- Interactuar con un modelo LLM (GPT 40)
 - Construir un sistema de recuperacion de documentos para responder las preguntas necesarias basados en un "trabajo de investigacion" determinados en PDF
 - Obtener respuestas en forma de texto y como formato estructurado que se definio
 - Sitio de la aplicacion tenga las fuentes de texto exactas.
 - Construir una interfaz en Streamlit
-- Empaquetar e impleementar usando Dockers
+- Empaquetar e implementar usando Dockers
 
 
 
